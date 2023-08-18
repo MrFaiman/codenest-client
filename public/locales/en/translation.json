@@ -1,0 +1,24 @@
+{
+	"_comment": "English translation file",
+	"common": {
+		"ok": "OK",
+		"cancel": "Cancel",
+		"yes": "Yes",
+		"no": "No",
+		"close": "Close",
+		"save": "Save",
+		"delete": "Delete",
+		"add": "Add",
+		"edit": "Edit",
+		"name": "Name",
+		"description": "Description",
+		"type": "Type",
+		"value": "Value",
+		"enabled": "Enabled",
+		"disabled": "Disabled",
+		"search": "Search",
+		"searching": "Searching...",
+		"search_no_results": "No results found",
+		"search_error": "Search error"
+	}
+}

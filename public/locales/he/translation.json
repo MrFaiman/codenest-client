@@ -1,0 +1,24 @@
+{
+    "_comment": "This is a comment",
+    "common": {
+        "ok": "אישור",
+        "cancel": "ביטול",
+        "yes": "כן",
+        "no": "לא",
+        "save": "שמור",
+        "delete": "מחק",
+        "close": "סגור",
+        "add": "הוסף",
+        "edit": "ערוך",
+        "name": "שם",
+        "description": "תיאור",
+        "type": "סוג",
+        "value": "ערך",
+        "enabled": "פעיל",
+        "disabled": "לא פעיל",
+        "search": "חפש",
+		"searching": "מחפש...",
+		"search_no_results": "לא נמצאו תוצאות",
+		"search_error": "שגיאה בחיפוש"
+    }
+}
