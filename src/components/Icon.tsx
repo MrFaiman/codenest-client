@@ -1,3 +1,5 @@
+// TODO: This component has errors when trying to use it. 
+
 import { icons } from "lucide-react";
 
 interface IconProps {
