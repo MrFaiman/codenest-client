@@ -12,9 +12,9 @@
 	color: white;
 }
 
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
 	width: 0;
-}
+} */
 
 .gradient-2 {
 	background: linear-gradient(
@@ -38,6 +38,7 @@
 		rgba(255, 81, 0, 1) 0%,
 		rgba(152, 73, 255, 1) 100%
 	);
+	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
