@@ -1,6 +1,5 @@
 import Steps from "@components/Steps";
 import { Database, Globe } from "lucide-react";
-import Button from "@components/Button";
 import { Card } from "@components";
 
 const Landing = (): JSX.Element => {
